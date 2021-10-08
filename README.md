@@ -79,7 +79,10 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. Put your answers underneath the questions:
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
-  dom dom dom dom
+  it is a library that lets us build dynamic web apps easily with things like state and effect and components.
 1. Describe component state.
+  the state of a component is an object that holds information that may change over time. 
 1. Describe props.
+  props are properties that can be passed between react components.
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+  anything that effects something outside of the current funciton being excecuted, like if you want one thing to change on the page but not render the entire page again. you would use useeffect
